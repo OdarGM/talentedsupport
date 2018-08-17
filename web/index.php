@@ -106,7 +106,7 @@
 
                                     <li class="active"><a href="#headere-top" title="Home">Home</a></li>
 
-                                    <li><a href="#section-five" title="Contact">Contact Us</a></li>
+                                    <li><a href="#section-six" title="Contact">Contact Us</a></li>
 
                
 

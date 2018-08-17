@@ -533,77 +533,7 @@
 
                     <!-- pricing -->
 
-                    <div class="pricing">
-
-                    	<section>
-
-                        	<header><h4>Bronze</h4></header>
-
-                            <h2><span>$5</span> /mo</h2>
-
-                            <ul>
-
-                                <li>Python or JavaScript Course</li>
-
-      
-
-                                <li>Special Discord Rewards</li>
-
-                            </ul>
-
-                            <input name="" type="button" value="get Started">
-
-                        </section>
-
-                        <section>
-
-                        	<header><h4>Silver</h4></header>
-
-                            <h2><span>$10</span> /mo</h2>
-
-                            <ul>
-
-                                <li>Python and Discord.py or JavaScript and Discord.js</li>
-
-                                <li>VIP Bot Development Support</li>
-
-                                <li>Certificate of Completion</li>
-                              <li>Special Discord Rewards</li>
-
-                            </ul>
-
-                            <input name="" type="button" value="get Started">
-
-                        </section>
-
-                        <section>
-
-                        	<header><h4>Gold</h4></header>
-
-                            <h2><span>$15</span> /mo</h2>
-
-                            <ul>
-
-                                <li>We make the bot for you! Python or JavaScript course</li>
-
-                                <li>VIP Support</li>
-
-                                <li>Certificate of Completion</li>
-                              <li>Special Discord Rewards</li>
-
-                            </ul>
-
-                            <input name="" type="button" value="get Started">
-
-                        </section>
-
-                    </div>
-
-                    <!-- pricing -->
-
-                </div>
-
-            </section>
+                 
 
             <!-- section-three -->
 
@@ -746,22 +676,7 @@
 
                 </div>
 
-                <!-- map -->
-
-                 <div class="map-wrapper">
-
-                        <div id="surabaya"></div>
-
-                    </div>
-
-                <!-- map -->
-
-            </section>
-
-            <!-- section-six -->
-
-            
-
+             
            <!-- footer -->
 
            <footer role="footer" class="footer text-center">
@@ -786,21 +701,21 @@
 
                     </section>
 
-                    <!-- socil-icons -->
+                
 
                     <!-- nav -->
 
                     <nav role="footer-nav">
 
-                        <a href="#">Terms of Use </a> 
+                        <a href="http://terms.mytalented.com/">Terms of Use </a> 
 
-                        <a href="#">Privacy Policy</a>
+                        <a href="http://policy.mytalented.com/">Privacy Policy</a>
 
                     </nav>
 
                     <!-- nav -->
 
-                    <p class="copy">&copy; 2018 Inv Technologies. All rights reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/">Alphi</a></p>
+                    <p class="copy">&copy; 2018 Talented Inc. All rights reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/">Talented Dev Team</a></p>
 
                 </div>
 

@@ -106,17 +106,9 @@
 
                                     <li class="active"><a href="#headere-top" title="Home">Home</a></li>
 
-                                    <li><a href="#section-one" title="Overview">Overview</a></li>
+                                    <li><a href="#section-five" title="Contact">Contact Us</a></li>
 
-                                    <li><a href="#section-two" title="Features">Features</a></li>
-
-                                    <li><a href="#section-three" title="Pricing">Pricing</a></li>
-
-                                    <li><a href="#section-four" title="Team">Team</a></li>
-
-                                    <li><a href="#section-five" title="Contact">Contact</a></li>
-
-                                    <li><a href="#section-six" title="Join Us">Join Us</a></li>            
+               
 
                                 </ul>
 
@@ -196,7 +188,7 @@
 
                     <article>
 
-                    	<p>Are you experiencing issues wit our platform? Do you need help understanding something? Do you have any suggestions?<br>
+                    	<p>Are you experiencing issues with our platform? Do you need help understanding something? Do you have any suggestions?<br>
                       Well, here at Talented our #1 priority is you! Our team works very hard to provide the best support experience to our members, we are currently a small staff so it might take us up to 1-2 days to answer your questions.</p>
 
                     </article>

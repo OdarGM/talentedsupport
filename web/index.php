@@ -138,9 +138,9 @@
 
                  <section class="text-center">
 
-                    <h2>Bok ~ An awesome and reliable guide for developing Discord Bots!</h2>
+                    <h2>Welcome to Talented's Support Website!</h2>
 
-                    <p>Fast and reliable service and accurate info at the tips of your fingers</p>
+                    <p>Please contact our team directly as the FAQ/Forums are currently in development.</p>
 
                       </section>
 
@@ -174,49 +174,7 @@
 
             <!-- top pan -->
 
-            <section role="loges" class="top-pan">
-
-            	<div class="container">
-
-                	<ul class="row">
-
-                    	<li class="col-xs-12 col-sm-3 col-md-2 col-lg-2 ">Libraries:</li>
-
-                        <li class="col-xs-4 col-sm-3 col-md-2 col-lg-2 ">
-
-                        	<a href="#"><img src="static/jsdiscord.png" alt="" class="img-responsive" width="75"/></a>
-
-                        </li>
-
-                        <li class="col-xs-4 col-sm-3 col-md-2 col-lg-2">
-
-                        	<a href="#"><img src="static/js.png" alt="" class="img-responsive" width="75"/></a>
-
-                        </li>
-
-                        <li class="col-xs-4 col-sm-3 col-md-2 col-lg-2">
-
-                        	<a href="#"><img src="static/pydiscord.png" alt="" class="img-responsive" width="75"/></a>
-
-                        </li>
-
-                        <li class="col-xs-4 col-sm-3 col-md-2 col-lg-2">
-
-                        	<a href="#"><img src="static/python.png" alt="" class="img-responsive" width="75"/></a>
-
-                        </li>
-
-                        <li class="col-xs-4 col-sm-3 col-md-2 col-lg-2">
-
-                        	<a href="#"><img src="static/discord.png" alt="" class="img-responsive" width="75"/></a>
-
-                        </li>
-
-                    </ul>
-
-                </div>
-
-            </section>
+            
 
         	<!-- top pan -->
 
@@ -230,16 +188,16 @@
 
                 	<header role="title-page">
 
-                        <h4>What we do</h4>
+                        <h4>A message from our Support Team</h4>
 
-                        <h2>We make detailed guides on how to develop<br/>DISCORD BOTS!</h2>
+                        <h2>Here at Talented our #1 priority is<br/>YOU!</h2>
 
                     </header>
 
                     <article>
 
-                    	<p>Have you ever wondered whats the awesome "magic" behind those powerful bots that integrate your daily Discord usage? Wether it be Musc bots, Games bots, Moderation bots....<br>
-                      Well here at BokBook Guide we will show you HOW TO MAKE your OWN Discord Bot in 2 different libraries. If you have zero programming knowledge then you should consider one of our paid courses for JavaScript (discord.js) or Python (discord.py)</p>
+                    	<p>Are you experiencing issues wit our platform? Do you need help understanding something? Do you have any suggestions?<br>
+                      Well, here at Talented our #1 priority is you! Our team works very hard to provide the best support experience to our members, we are currently a small staff so it might take us up to 1-2 days to answer your questions.</p>
 
                     </article>
 
@@ -255,9 +213,9 @@
 
                             	<figure><i class="fa fa-rocket" aria-hidden="true"></i></figure>
 
-                            	<h5>Accurate Info</h5>
+                            	<h5>Modern Design</h5>
 
-                                <p>The information you find on our guide is as accurate as it can be. Our team is constantly re-reading the files and making sure its accurate and updated.</p>
+                                <p>We try to style our platform with modern styles and attractive looks.</p>
 
                             </section>
 
@@ -267,17 +225,16 @@
 
                             	<h5>Higly user-friendly</h5>
 
-                                <p>This means that wether you're a proffesional programmer or just a hobbyist our guide is for you! Its as easy as it can get.</p>
-
+                                <p>This means that wether you're a new user in social media or in our platform, you'll catch up real quick.</p>
                             </section>
 
                             <section class="col-xs-12 col-sm-6 col-md-3">
 
                             	<figure><i class="fa fa-paper-plane" aria-hidden="true"></i></figure>
 
-                            	<h5>Simplified language</h5>
+                            	<h5>Communicate</h5>
 
-                                <p>We try to use simple terms, so if you're new to programming you will understand this like reading a normal book about your favorite topic!</p>
+                                <p>Let others know you're Talented wether they're next door or a plane flight away!</p>
 
                             </section>
 
@@ -285,9 +242,9 @@
 
                             	<figure><i class="fas fa-tv" aria-hidden="true"></i></figure>
 
-                            	<h5>Up-to-date</h5>
+                            	<h5>Updates</h5>
 
-                                <p>We're always updating our content, so you will always have new content and reference!.</p>
+                                <p>We're always updating our platform to bring better service to our users, if you have any suggestions, don't hesitate in contacting us!.</p>
 
                             </section>
 
@@ -322,7 +279,7 @@
 
                         <h4>Get in touch</h4>
 
-                        <h2>Have any questions? Our team will happy to<br/>answer your questionss.</h2>
+                        <h2>Have any questions? Our team will happy to<br/>answer your questions.</h2>
 
                     </header>
 

@@ -21,29 +21,29 @@
     <!-- style -->
     
 
-    <link href="talentedsupport/css/style.css" rel="stylesheet" type="text/css">
+    <link href="./css/style.css" rel="stylesheet" type="text/css">
 
     <!-- Bootstrap -->
 
-    <link href="talentedsupport/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css">
 
     <!-- carousel -->
 
-    <link href="talentedsupport/css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="./css/owl.carousel.css" rel="stylesheet" type="text/css">
 
     <!-- responsive -->
 
-    <link href="talentedsupport/css/responsive.css" rel="stylesheet" type="text/css">
+    <link href="./css/responsive.css" rel="stylesheet" type="text/css">
 
     <!-- font-awesome -->
 
-    <link href="talentedsupport/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="./css/font-awesome.min.css" rel="stylesheet" type="text/css">
    
     <!-- font-awesome -->
     
-    <link href="talentedsupport/css/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="./css/animate.min.css" rel="stylesheet" type="text/css">
 
-    <link href="talentedsupport/css/popup.css" rel="stylesheet" type="text/css">
+    <link href="./css/popup.css" rel="stylesheet" type="text/css">
 
   </head>
 

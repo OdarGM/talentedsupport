@@ -354,7 +354,7 @@
 
                     <!-- nav -->
 
-                    <p class="copy">&copy; 2018 Talented Inc. All rights reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/">Talented Dev Team</a></p>
+                    <p class="copy">&copy; 2018 Talented Inc. All rights reserved. Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.mytalented.com/views/about.html">Talented Dev Team</a></p>
 
                 </div>
 
